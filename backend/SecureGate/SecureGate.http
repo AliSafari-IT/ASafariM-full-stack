@@ -1,0 +1,6 @@
+@SecureGate_HostAddress = http://localhost:5274
+
+GET {{SecureGate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,16 @@
+{
+  "name": "@ASafariM/root",
+  "packageManager": "yarn@4.1.1",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  },
+  "workspaces": [
+    "frontend/*",
+    "backend/*"   
+  ]
+}

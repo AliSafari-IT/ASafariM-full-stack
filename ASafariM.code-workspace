@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "ASafariM"
+		},
+		{
+			"path": "./frontend",
+			"name": "Frontend"
+		},
+		{
+			"path": "./backend",
+			"name": "Backend"
+		}
+	],
+	"settings": {}
+}

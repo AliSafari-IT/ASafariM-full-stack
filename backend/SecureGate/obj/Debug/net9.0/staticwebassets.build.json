@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CIiRFMuBWxH6xMsZT8YY9uMb+GjgYe8sujgVf5pATV8=",
+  "Source": "SecureGate",
+  "BasePath": "_content/SecureGate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
